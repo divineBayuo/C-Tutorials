@@ -1,0 +1,14 @@
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/bin/Debug/net9.0/TestProjects
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/bin/Debug/net9.0/TestProjects.deps.json
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/bin/Debug/net9.0/TestProjects.runtimeconfig.json
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/bin/Debug/net9.0/TestProjects.dll
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/bin/Debug/net9.0/TestProjects.pdb
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/obj/Debug/net9.0/TestProjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/obj/Debug/net9.0/TestProjects.AssemblyInfoInputs.cache
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/obj/Debug/net9.0/TestProjects.AssemblyInfo.cs
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/obj/Debug/net9.0/TestProjects.csproj.CoreCompileInputs.cache
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/obj/Debug/net9.0/TestProjects.dll
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/obj/Debug/net9.0/refint/TestProjects.dll
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/obj/Debug/net9.0/TestProjects.pdb
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/obj/Debug/net9.0/TestProjects.genruntimeconfig.cache
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/obj/Debug/net9.0/ref/TestProjects.dll
