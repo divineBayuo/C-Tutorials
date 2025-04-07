@@ -12,3 +12,4 @@
 /Users/divinebayuo/Documents/CSharpProjects/TestProjects/obj/Debug/net9.0/TestProjects.pdb
 /Users/divinebayuo/Documents/CSharpProjects/TestProjects/obj/Debug/net9.0/TestProjects.genruntimeconfig.cache
 /Users/divinebayuo/Documents/CSharpProjects/TestProjects/obj/Debug/net9.0/ref/TestProjects.dll
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/obj/Debug/net9.0/TestProjects.sourcelink.json

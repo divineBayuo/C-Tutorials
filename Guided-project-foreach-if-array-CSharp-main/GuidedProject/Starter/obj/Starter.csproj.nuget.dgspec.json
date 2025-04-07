@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/divinebayuo/Downloads/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj": {}
+    "/Users/divinebayuo/Documents/CSharpProjects/TestProjects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj": {}
   },
   "projects": {
-    "/Users/divinebayuo/Downloads/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj": {
+    "/Users/divinebayuo/Documents/CSharpProjects/TestProjects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/divinebayuo/Downloads/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj",
+        "projectUniqueName": "/Users/divinebayuo/Documents/CSharpProjects/TestProjects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "/Users/divinebayuo/Downloads/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj",
+        "projectPath": "/Users/divinebayuo/Documents/CSharpProjects/TestProjects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj",
         "packagesPath": "/Users/divinebayuo/.nuget/packages/",
-        "outputPath": "/Users/divinebayuo/Downloads/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/",
+        "outputPath": "/Users/divinebayuo/Documents/CSharpProjects/TestProjects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/divinebayuo/.nuget/NuGet/NuGet.Config"
