@@ -1,0 +1,15 @@
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode3/obj/Debug/net9.0/leetcode3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode3/obj/Debug/net9.0/leetcode3.AssemblyInfoInputs.cache
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode3/obj/Debug/net9.0/leetcode3.AssemblyInfo.cs
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode3/obj/Debug/net9.0/leetcode3.csproj.CoreCompileInputs.cache
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode3/obj/Debug/net9.0/leetcode3.sourcelink.json
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode3/bin/Debug/net9.0/leetcode3
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode3/bin/Debug/net9.0/leetcode3.deps.json
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode3/bin/Debug/net9.0/leetcode3.runtimeconfig.json
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode3/bin/Debug/net9.0/leetcode3.dll
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode3/bin/Debug/net9.0/leetcode3.pdb
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode3/obj/Debug/net9.0/leetcode3.dll
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode3/obj/Debug/net9.0/refint/leetcode3.dll
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode3/obj/Debug/net9.0/leetcode3.pdb
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode3/obj/Debug/net9.0/leetcode3.genruntimeconfig.cache
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode3/obj/Debug/net9.0/ref/leetcode3.dll
