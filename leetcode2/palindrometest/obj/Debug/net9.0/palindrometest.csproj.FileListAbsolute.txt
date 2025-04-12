@@ -1,0 +1,15 @@
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode2/palindrometest/obj/Debug/net9.0/palindrometest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode2/palindrometest/obj/Debug/net9.0/palindrometest.AssemblyInfoInputs.cache
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode2/palindrometest/obj/Debug/net9.0/palindrometest.AssemblyInfo.cs
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode2/palindrometest/obj/Debug/net9.0/palindrometest.csproj.CoreCompileInputs.cache
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode2/palindrometest/obj/Debug/net9.0/palindrometest.sourcelink.json
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode2/palindrometest/bin/Debug/net9.0/palindrometest
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode2/palindrometest/bin/Debug/net9.0/palindrometest.deps.json
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode2/palindrometest/bin/Debug/net9.0/palindrometest.runtimeconfig.json
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode2/palindrometest/bin/Debug/net9.0/palindrometest.dll
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode2/palindrometest/bin/Debug/net9.0/palindrometest.pdb
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode2/palindrometest/obj/Debug/net9.0/palindrometest.dll
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode2/palindrometest/obj/Debug/net9.0/refint/palindrometest.dll
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode2/palindrometest/obj/Debug/net9.0/palindrometest.pdb
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode2/palindrometest/obj/Debug/net9.0/palindrometest.genruntimeconfig.cache
+/Users/divinebayuo/Documents/CSharpProjects/TestProjects/leetcode2/palindrometest/obj/Debug/net9.0/ref/palindrometest.dll
